@@ -1,5 +1,8 @@
 # TravelMate AI 🌊
 
+#Demo
+https://travelmateai-iabxdn9owm5dw8kut4vbwy.streamlit.app/
+
 TravelMate AI is an AI-powered tourism assistant that creates personalized travel recommendations and itineraries. It's a domain-specific chatbot — it only answers questions about travel and tourism, and politely declines anything outside that scope.
 
 ## Features
